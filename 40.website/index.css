@@ -1,0 +1,6 @@
+.navbar a{
+    font-size: 1.3rem;color: #565387;
+}
+.navbar:hover{
+    color: #3498db;
+}
